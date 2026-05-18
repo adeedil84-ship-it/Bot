@@ -1,0 +1,27 @@
+{
+  "name": "telegram-mail-bot-v17",
+  "version": "17.1.0",
+  "description": "Telegram Mail Gateway Bot - Fixed & Stable",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.16.1",
+    "dotenv": "^16.6.1",
+    "groq-sdk": "^1.2.0",
+    "node-telegram-bot-api": "^0.64.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "mail",
+    "temp-mail"
+  ],
+  "author": "Fixed by Grok",
+  "license": "MIT"
+}
