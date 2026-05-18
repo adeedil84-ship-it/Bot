@@ -1,0 +1,72 @@
+{
+  "users": {
+    "8430290683": {
+      "name": "Emy",
+      "username": "emyawu",
+      "points": 10,
+      "activeEmail": null,
+      "activeEmailToken": null,
+      "emailExpiry": null,
+      "tier": "S-Tier(Developer)",
+      "tierExpiry": null,
+      "dailyUsageCustom": 0,
+      "dailyUsageRandom": 0,
+      "lastUsedDate": "May 18, 2026",
+      "lastDailyClaim": null,
+      "sendMessageQuota": 0,
+      "dailyTTTWins": 0
+    },
+    "7671131147": {
+      "name": "emyber",
+      "username": "whatsemyy",
+      "points": 5,
+      "activeEmail": null,
+      "activeEmailToken": null,
+      "emailExpiry": null,
+      "tier": "S-Tier",
+      "tierExpiry": "2026-06-01T00:43:39.906Z",
+      "dailyUsageCustom": 1,
+      "dailyUsageRandom": 2,
+      "lastUsedDate": "May 18, 2026",
+      "lastDailyClaim": "May 18, 2026",
+      "sendMessageQuota": 0,
+      "dailyTTTWins": 0
+    },
+    "8097806353": {
+      "name": "Blacn",
+      "username": "hitammly",
+      "points": 65,
+      "activeEmail": null,
+      "activeEmailToken": null,
+      "emailExpiry": null,
+      "tier": "B-Tier (Standard Free)",
+      "tierExpiry": null,
+      "dailyUsageCustom": 0,
+      "dailyUsageRandom": 1,
+      "lastUsedDate": "May 18, 2026",
+      "lastDailyClaim": null,
+      "sendMessageQuota": 0,
+      "dailyTTTWins": 0
+    }
+  },
+  "sendMessageLogs": [
+    {
+      "timestamp": "2026-05-17T17:19:03.877Z",
+      "fromId": "8430290683",
+      "fromName": "Emy",
+      "fromUsername": "@Emyawu",
+      "targetId": "@whatsemyy",
+      "resolvedTargetId": "7671131147",
+      "message": "Hallo kak, untuk pembelian point dapat dilakukan di manu /Topuppoint ya kak, silakan baca instruksi yang dikirim oleh bot.\nLena~"
+    },
+    {
+      "timestamp": "2026-05-18T00:26:50.792Z",
+      "fromId": "8430290683",
+      "fromName": "Emy",
+      "fromUsername": "@Emyawu",
+      "targetId": "8430290683",
+      "resolvedTargetId": "8430290683",
+      "message": "Premium"
+    }
+  ]
+}
